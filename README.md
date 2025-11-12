@@ -1,7 +1,6 @@
 # 🌟 Contrastive Learning with Complex Heterogeneity
 
-**Demo Code** for the paper  
-📄 *"Contrastive Learning with Complex Heterogeneity"* — accepted at **KDD 2022**.
+> **Demo Code** for the paper *"Contrastive Learning with Complex Heterogeneity"* — accepted at **KDD 2022**.
 
 ---
 
