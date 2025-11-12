@@ -1,4 +1,4 @@
-# 🌟 Contrastive Learning with Complex Heterogeneity
+# 🌟 HeroCon: Contrastive Learning with Complex Heterogeneity
 
 > **Demo Code** for the paper *"Contrastive Learning with Complex Heterogeneity"* — accepted at **KDD 2022**.
 
@@ -27,7 +27,7 @@ Make sure the dataset folder structure follows the expected format in main.py.
 * [MNIST](http://yann.lecun.com/exdb/mnist/): Handwritten digits for image classification
 * [XRMB](https://home.ttic.edu/~klivescu/XRMB_data/full/README): Multi-modal speech dataset
 * [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html): Multi-label facial recognition dataset
-* [Scene](https://github.com/zhenglecheng/HeroCon/tree/main/data/scene):Multi-label scene classification dataset
+* [Scene](https://github.com/zhenglecheng/HeroCon/tree/main/data/scene): Multi-label scene classification dataset
 ---
 
 ## 🚀 Run the Demo
